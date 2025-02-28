@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sanjels03
 - 👀 I’m interested in statistics and machine learning!
-- 🌱 I’m currently learning Big Data Architecture and research methods
+- 🌱 I’m currently learning Big Data Architecture and Advanced artificial intelligence
 - 💞️ I’m looking to collaborate on my group projects in class
 - 📫 How to reach me sanjels03@gmail.com
 - 😄 Pronouns: She/Her
